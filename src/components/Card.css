@@ -1,16 +1,8 @@
-.error {
-    color: red;
-}
-
-form {
+.card {
     padding: 10px;
-    border: 2px solid white;
+    border: 2px solid greenyellow;
     border-radius: 15px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
     max-width: 400px;
-    margin: auto;
-}
-
-button {
     margin: 10px;
 }
